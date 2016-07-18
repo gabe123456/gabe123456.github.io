@@ -1,0 +1,23 @@
+body{
+	background:lightblue;
+	font-family: 'Poppins', sans-serif;
+}
+img{
+	display:block;
+	height: 450px;
+	width: auto;
+}
+#title {
+	background:white;
+	width: 800px;
+	padding-left: 10px;
+	padding-bottom: 15px;
+	border-radius:5px;
+}
+
+main {
+	padding: 15px;
+	margin-top:15px;
+	margin-top:15px;
+	margin-left:15px;
+	border-radius:5px
